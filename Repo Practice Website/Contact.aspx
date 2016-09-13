@@ -4,10 +4,8 @@
     <h2><%: Title %>.</h2>
     <h3>Your contact page.</h3>
     <address>
-        One Microsoft Way<br />
-        Redmond, WA 98052-6399<br />
-        <abbr title="Phone">P:</abbr>
-        425.555.0100
+        Nait<br />
+        <p>This is a classroom demo for DMIT2018 in Sep 2017</p>
     </address>
 
     <address>
